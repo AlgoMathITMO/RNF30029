@@ -14,7 +14,7 @@
 Взаимосвязь модулей соответсвует схеме связи результатов работы по проекту.
 
 <p align="center" width="100%">
- <img src="https://github.com/AlgoMathITMO/RNF30029/blob/main/imgs/connection.png" width="70%" > 
+ <img src="https://github.com/AlgoMathITMO/RNF30029/blob/main/imgs/connection.png" width="80%" > 
 <p align="center"><i>Связь результатов работы по проекту</i></p>
 </p>  
 
